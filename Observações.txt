@@ -1,0 +1,5 @@
+Altere o id do bot telegram e o seu id de telegram na pasta: core/system/config.php
+
+Não altere os proxies
+
+bjs strolly
