@@ -3,11 +3,11 @@ import 'firebase/firestore'
 const firebaseConfig = {
   apiKey: "",
   authDomain: "",
-  projectId: "",
+  projectId: "937329540848558090",
   storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
-  measurementId: ""
+  messagingSenderId: "937448664727703553",
+  appId: "937448664727703553",
+  measurementId: "937448664727703553"
 };
 
 firebase.initializeApp(firebaseConfig);
